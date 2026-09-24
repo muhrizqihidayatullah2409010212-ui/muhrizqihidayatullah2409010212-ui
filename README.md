@@ -5,160 +5,124 @@
 </h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a student of <b>Information Systems</b>
-  with an interest in technology, web development, and UI/UX design.
+Welcome to my GitHub profile! I'm a student of <b>Information Systems</b>
+with an interest in technology, web development, and UI/UX design.
 </p>
 
 ---
 
 <h2>👨‍💻 About Me</h2>
 
-<ul>
-  <li>🎓 Information Systems Student</li>
-  <li>🏫 Universitas Muhammadiyah Sumatera Utara</li>
-  <li>💻 Interested in Web Development</li>
-  <li>🎨 Interested in UI/UX Design</li>
-  <li>🚀 Currently learning and developing modern web applications</li>
-  <li>📚 Always exploring new technologies</li>
-  <li>⚡ Enjoy coding and building creative digital projects</li>
-</ul>
+<p>
+🎓 Information Systems Student<br>
+🏫 Universitas Muhammadiyah Sumatera Utara<br>
+💻 Interested in Web Development<br>
+🎨 Interested in UI/UX Design<br>
+🚀 Currently learning and developing modern web applications<br>
+📚 Always exploring new technologies<br>
+⚡ Enjoy coding and building creative digital projects
+</p>
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
+<h2>🛠️ Languages & Tools</h2>
 
 <h3>💻 Programming & Web</h3>
 
-<p align="left">
+<table>
+<tr>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-alt="HTML5" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50">
+<br><b>HTML5</b>
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50">
+<br><b>CSS3</b>
+</td>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-alt="CSS3" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<br><b>JavaScript</b>
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50">
+<br><b>PHP</b>
+</td>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="JavaScript" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50">
+<br><b>MySQL</b>
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
+<br><b>Node.js</b>
+</td>
 
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-alt="PHP" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50">
+<br><b>Linux</b>
+</td>
 
-&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-alt="MySQL" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-alt="Node.js" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-alt="Linux" width="50" height="50"/>
-</a>
-
-</p>
-
-<p align="left">
-<b>HTML5</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>CSS3</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>PHP</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Linux</b>
-</p>
+</tr>
+</table>
 
 <h3>🎨 Design & Development Tools</h3>
 
-<p align="left">
+<table>
+<tr>
 
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-alt="Figma" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50">
+<br><b>Figma</b>
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
+<br><b>Git</b>
+</td>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-alt="Git" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">
+<br><b>GitHub</b>
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50">
+<br><b>VS Code</b>
+</td>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-alt="GitHub" width="50" height="50"/>
-</a>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="50" height="50">
+<br><b>Photoshop</b>
+</td>
 
-&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-alt="VS Code" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
-alt="Photoshop" width="50" height="50"/>
-</a>
-
-</p>
-
-<p align="left">
-<b>Figma</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Photoshop</b>
-</p>
+</tr>
+</table>
 
 ---
 
 <h2>🎥 Featured Video</h2>
 
 <p align="center">
-
-<a href="https://youtu.be/pwrwb808okQ" target="_blank">
+<a href="https://youtu.be/pwrwb808okQ">
 
 <img src="https://img.youtube.com/vi/pwrwb808okQ/maxresdefault.jpg"
-alt="Tentang Skadron Udara 16"
-width="700"/>
+width="700"
+alt="Tentang Skadron Udara 16">
 
 </a>
-
 </p>
 
 <p align="center">
-🎬 <b>Tentang Skadron Udara 16</b>
+<b>🎬 Tentang Skadron Udara 16</b>
 </p>
 
 <p align="center">
-<a href="https://youtu.be/pwrwb808okQ" target="_blank">
+<a href="https://youtu.be/pwrwb808okQ">
 ▶️ Watch Video on YouTube
 </a>
 </p>
@@ -167,15 +131,22 @@ width="700"/>
 
 <h2>🚀 Featured Projects</h2>
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
 <h3>🍽️ Dashboard Menu</h3>
 
 <p>
 Web-based food ordering dashboard built with PHP and MySQL.
 </p>
 
-<p>
-<b>Technologies:</b> PHP • MySQL • HTML • CSS • JavaScript
-</p>
+<b>PHP • MySQL • HTML • CSS • JavaScript</b>
+
+</td>
+
+<td width="33%" align="center">
 
 <h3>💊 Apotek Web Online</h3>
 
@@ -183,9 +154,11 @@ Web-based food ordering dashboard built with PHP and MySQL.
 Web application project for an online pharmacy case study.
 </p>
 
-<p>
-<b>Technologies:</b> HTML • CSS • JavaScript
-</p>
+<b>HTML • CSS • JavaScript</b>
+
+</td>
+
+<td width="33%" align="center">
 
 <h3>✈️ Skadron Udara 16</h3>
 
@@ -193,22 +166,34 @@ Web application project for an online pharmacy case study.
 Website project presenting information about Skadron Udara 16.
 </p>
 
-<p>
-<b>Technologies:</b> HTML • CSS • JavaScript
-</p>
+<b>HTML • CSS • JavaScript</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <h2>🎯 Currently Learning</h2>
 
-<ul>
-  <li>🌐 Modern Web Development</li>
-  <li>⚡ Laravel</li>
-  <li>🗄️ Database Management</li>
-  <li>🎨 UI/UX Design</li>
-  <li>🐘 PHP Development</li>
-  <li>🧩 Software Architecture</li>
-</ul>
+<table>
+<tr>
+
+<td>🌐 Modern Web Development</td>
+<td>⚡ Laravel</td>
+<td>🗄️ Database Management</td>
+
+</tr>
+
+<tr>
+
+<td>🎨 UI/UX Design</td>
+<td>🐘 PHP Development</td>
+<td>🧩 Software Architecture</td>
+
+</tr>
+</table>
 
 ---
 
@@ -216,13 +201,9 @@ Website project presenting information about Skadron Udara 16.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhrizqihidayatullah2409010212-ui&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhrizqihidayatullah2409010212-ui&show_icons=true&theme=tokyonight&hide_border=true">
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrizqihidayatullah2409010212-ui&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrizqihidayatullah2409010212-ui&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
@@ -230,18 +211,18 @@ Website project presenting information about Skadron Udara 16.
 
 <h2>📫 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.instagram.com/__.zqi" target="_blank">
+<a href="https://www.instagram.com/__.zqi">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"
-alt="Instagram"
-width="50"
-height="50"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F"
+width="45"
+height="45"
+alt="Instagram">
 
 </a>
 
-&nbsp;&nbsp;
+<br>
 
 <b>@__.zqi</b>
 
@@ -249,7 +230,7 @@ height="50"/>
 
 ---
 
-<h2>💙 Thanks for visiting my GitHub profile!</h2>
+<h2 align="center">💙 Thanks for visiting my GitHub profile!</h2>
 
 <p align="center">
 <b>Keep learning, keep coding, and keep building. 🚀</b>
