@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hi, I'm Muhammad Rizqi Hidayatullah</h1>
 
+<p align="center">
+  <img src="./download%20%2811%29.jpg"
+       width="100%"
+       alt="Muhammad Rizqi Hidayatullah">
+</p>
+
 <h3 align="center">
 💻 Information Systems Student | Web Developer | UI/UX Designer
 </h3>
@@ -120,6 +126,12 @@ Web-based food ordering dashboard built with PHP and MySQL.
 
 <b>PHP • MySQL • HTML • CSS • JavaScript</b>
 
+<br><br>
+
+<a href="https://dashboardmenu.page.gd/login.php" target="_blank">
+🔗 Visit Project
+</a>
+
 </td>
 
 <td width="33%" align="center">
@@ -156,27 +168,76 @@ Website project presenting information about Skadron Udara 16.
 <table>
 <tr>
 
-<td>🌐 Modern Web Development</td>
-<td>⚡ Laravel</td>
-<td>🗄️ Database Management</td>
+<td align="center" width="33%">
+🌐<br>
+<b>Modern Web Development</b>
+</td>
+
+<td align="center" width="33%">
+⚡<br>
+<b>Laravel</b>
+</td>
+
+<td align="center" width="33%">
+🗄️<br>
+<b>Database Management</b>
+</td>
 
 </tr>
 
 <tr>
 
-<td>🎨 UI/UX Design</td>
-<td>🐘 PHP Development</td>
-<td>🧩 Software Architecture</td>
+<td align="center" width="33%">
+🎨<br>
+<b>UI/UX Design</b>
+</td>
+
+<td align="center" width="33%">
+🐘<br>
+<b>PHP Development</b>
+</td>
+
+<td align="center" width="33%">
+🧩<br>
+<b>Software Architecture</b>
+</td>
 
 </tr>
 </table>
 
 ---
 
+<h2>🎬 Featured Video</h2>
+
+<p align="center">
+
+<a href="https://youtu.be/pwrwb808okQ" target="_blank">
+
+<img src="https://img.youtube.com/vi/pwrwb808okQ/maxresdefault.jpg"
+     width="90%"
+     alt="Featured Video">
+
+</a>
+
+</p>
+
+<p align="center">
+<b>▶️ Watch my featured video on YouTube</b>
+</p>
+
+---
+
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<a href="https://dashboardmenu.page.gd/login.php" target="_blank">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhrizqihidayatullah2409010212-ui&show_icons=true&theme=tokyonight&hide_border=true"
+     alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrizqihidayatullah2409010212-ui&layout=compact&theme=tokyonight&hide_border=true"
+     alt="Top Languages">
 
 </p>
 
@@ -187,10 +248,12 @@ Website project presenting information about Skadron Udara 16.
 <p align="center">
 
 <a href="https://www.instagram.com/__.zqi" target="_blank">
+
 <img src="https://cdn.simpleicons.org/instagram/E4405F"
-alt="Instagram"
-width="50"
-height="50"/>
+     alt="Instagram"
+     width="50"
+     height="50">
+
 </a>
 
 <br>
