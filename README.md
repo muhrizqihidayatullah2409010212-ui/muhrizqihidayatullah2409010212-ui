@@ -176,10 +176,7 @@ Website project presenting information about Skadron Udara 16.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhrizqihidayatullah2409010212-ui&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrizqihidayatullah2409010212-ui&layout=compact&theme=tokyonight&hide_border=true">
+<a href="https://dashboardmenu.page.gd/login.php" target="_blank">
 
 </p>
 
