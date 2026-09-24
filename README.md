@@ -105,30 +105,6 @@ with an interest in technology, web development, and UI/UX design.
 
 ---
 
-<h2>🎥 Featured Video</h2>
-
-<p align="center">
-<a href="https://youtu.be/pwrwb808okQ">
-
-<img src="https://img.youtube.com/vi/pwrwb808okQ/maxresdefault.jpg"
-width="700"
-alt="Tentang Skadron Udara 16">
-
-</a>
-</p>
-
-<p align="center">
-<b>🎬 Tentang Skadron Udara 16</b>
-</p>
-
-<p align="center">
-<a href="https://youtu.be/pwrwb808okQ">
-▶️ Watch Video on YouTube
-</a>
-</p>
-
----
-
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -213,12 +189,12 @@ Website project presenting information about Skadron Udara 16.
 
 <p align="center">
 
-<a href="https://www.instagram.com/__.zqi">
+<a href="https://www.instagram.com/__.zqi" target="_blank">
 
-<img src="https://cdn.simpleicons.org/instagram/E4405F"
-width="45"
-height="45"
-alt="Instagram">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"
+alt="Instagram"
+width="50"
+height="50"/>
 
 </a>
 
