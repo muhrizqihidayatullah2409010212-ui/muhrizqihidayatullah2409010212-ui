@@ -37,18 +37,6 @@ Welcome to my GitHub profile! I'm a student of **Information Systems** with an i
 
 ---
 
-## 🎥 Featured Video
-
-[![Tentang Skadron Udara 16](https://img.youtube.com/vi/pwrwb808okQ/maxresdefault.jpg)](https://youtu.be/pwrwb808okQ)
-
-🎬 **Tentang Skadron Udara 16**
-
-> Video project mengenai Profil dan Operasi Skadron Udara 16.
-
-[▶️ Watch on YouTube](https://youtu.be/pwrwb808okQ)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🍽️ Dashboard Menu
@@ -92,7 +80,7 @@ Website project presenting information about Skadron Udara 16.
 
 ## 📫 Connect With Me
 
-📸 Instagram: [@rizqillh_](https://instagram.com/rizqillh_)
+📸 Instagram: [@__.zqi](https://www.instagram.com/__.zqi?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
 
 ---
 
